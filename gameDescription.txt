@@ -1,0 +1,1 @@
+Press space to move helicopter up and release space key to move down
